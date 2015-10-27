@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->bigIncrements('id');
+]]></content>
+	<tabTrigger>bigIncrements:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>bigIncrements migrate laravel</description>
+</snippet>

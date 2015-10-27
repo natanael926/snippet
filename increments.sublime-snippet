@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->increments('id');
+]]></content>
+	<tabTrigger>increments:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>increments migrate laravel</description>
+</snippet>

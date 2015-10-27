@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->float($1);
+]]></content>
+	<tabTrigger>float:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>float migrate laravel</description>
+</snippet>

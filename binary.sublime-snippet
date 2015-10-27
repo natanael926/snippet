@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->binary($1);
+]]></content>
+	<tabTrigger>binary:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>binary migrate laravel</description>
+</snippet>

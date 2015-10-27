@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-after($1)
+after($1);
 ]]></content>
 	<tabTrigger>after:laravel</tabTrigger>
 	<scope>source.php</scope>

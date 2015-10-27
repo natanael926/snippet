@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-first()
+first();
 ]]></content>
 	<tabTrigger>first:laravel</tabTrigger>
 	<scope>source.php</scope>

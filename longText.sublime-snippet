@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->longText($1);
+]]></content>
+	<tabTrigger>longText:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>longText migrate laravel</description>
+</snippet>

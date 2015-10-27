@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-nullable()
+nullable();
 ]]></content>
 	<tabTrigger>nullable:laravel</tabTrigger>
 	<scope>source.php</scope>

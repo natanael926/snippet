@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->mediumInteger($1);
+]]></content>
+	<tabTrigger>mediumInteger:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>mediumInteger migrate laravel</description>
+</snippet>

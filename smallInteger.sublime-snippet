@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->smallInteger($1);
+]]></content>
+	<tabTrigger>smallInteger:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>smallInteger migrate laravel</description>
+</snippet>

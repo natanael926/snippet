@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->morphs($1);
+]]></content>
+	<tabTrigger>morphs:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>morphs migrate laravel</description>
+</snippet>

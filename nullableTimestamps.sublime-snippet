@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->nullableTimestamps();
+]]></content>
+	<tabTrigger>nullableTimestamps:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>nullableTimestamps migrate laravel</description>
+</snippet>

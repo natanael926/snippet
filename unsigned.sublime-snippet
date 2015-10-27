@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-unsigned()
+unsigned();
 ]]></content>
 	<tabTrigger>unsigned:laravel</tabTrigger>
 	<scope>source.php</scope>

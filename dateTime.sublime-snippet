@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$table->dateTime($1);
+]]></content>
+	<tabTrigger>dateTime:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>dateTime migrate laravel</description>
+</snippet>
