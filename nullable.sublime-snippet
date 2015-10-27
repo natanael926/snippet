@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+nullable()
+]]></content>
+	<tabTrigger>nullable:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>Nullable migrate laravel</description>
+</snippet>
