@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unsigned()
+]]></content>
+	<tabTrigger>unsigned:laravel</tabTrigger>
+	<scope>source.php</scope>
+	<description>Unsigned migrate laravel</description>
+</snippet>
