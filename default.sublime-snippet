@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-default()
+default(${1:null})
 ]]></content>
 	<tabTrigger>default:laravel</tabTrigger>
 	<scope>source.php</scope>
